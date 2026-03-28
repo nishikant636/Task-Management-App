@@ -28,22 +28,25 @@ This project demonstrates core application development skills including CRUD ope
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshorts/home.png.png)
 
 ### ➕ Add Task Screen
-![Add Task](screenshots/add_task.png)
+![Add Task](screenshorts/add_task.png)
+
+### ➕ Status
+![Add Task](screenshorts/status.png)
 
 ### 📋 Task List
-![Task List](screenshots/task_list.png)
+![Task List](screenshorts/task_list.png)
 
 ### 🔄 Task Status Update
-![Task Status](screenshots/task_status.png)
+![Task Status](screenshorts/task_status.png)
 
 ### 🔍 Filter Tasks
-![Filter Tasks](screenshots/filter.png)
+![Filter Tasks](screenshorts/filter.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](screenshots/dark_mode.png)
+![Dark Mode](screenshorts/dark_mode.png)
 
 ## ⚙️ How It Works
 
