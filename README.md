@@ -25,6 +25,25 @@ This project demonstrates core application development skills including CRUD ope
 | Hive      | Local Database |
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](screenshots/home.png)
+
+### ➕ Add Task Screen
+![Add Task](screenshots/add_task.png)
+
+### 📋 Task List
+![Task List](screenshots/task_list.png)
+
+### 🔄 Task Status Update
+![Task Status](screenshots/task_status.png)
+
+### 🔍 Filter Tasks
+![Filter Tasks](screenshots/filter.png)
+
+### 🌙 Dark Mode
+![Dark Mode](screenshots/dark_mode.png)
 
 ## ⚙️ How It Works
 
